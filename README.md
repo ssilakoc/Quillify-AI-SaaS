@@ -1,8 +1,18 @@
-# React + Vite
+# 🚀 Quillify - AI Content Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Quillify is a modern, high-conversion SaaS landing page designed for AI-driven copywriting platforms. This project focuses on clean UI/UX, modular React architecture, and smooth performance.
 
-Currently, two official plugins are available:
+**🔗 [Live Demo](https://quillify-ai-saa-s-n6pc.vercel.app)**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Key Features
+- **Dynamic Hero Section:** Custom-coded typewriter effect for showcasing multiple AI use-cases.
+- **Glassmorphism UI:** Modern, translucent design elements with backdrop filters.
+- **Component-Based:** Fully modularized structure using reusable React components.
+- **Responsive Design:** Optimized for all screen sizes using fluid typography and Tailwind CSS.
+- **Performance:** Built with Vite for ultra-fast load times.
+
+## 🛠️ Tech Stack
+- **Frontend:** React.js
+- **Styling:** Tailwind CSS & Custom Inline Styles
+- **Deployment:** Vercel
+- **Build Tool:** Vite
